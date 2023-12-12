@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(235, 215, 215);
+}
+
+
+.page {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 1000px;
+    height: 600px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.login {
+    font-size: 20px;
+    float: left;
+    width: 500px;
+
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+i{
+    margin: 20px;
+}
+
+form {
+    margin: 20px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgb(219, 215, 215);
+    border: none;
+}
+
+button {
+    margin-top: 30px;
+    color: white;
+    width: 130px;
+    height: 35px;
+    background-color: rgb(243, 40, 40);
+    border: none;
+    border-radius: 20px;
+}
+
+.info {
+    width: 500px;
+    height: 600px;
+    border-radius: 0px 10px 10px 0px;
+    float: right;
+    background-color: rgb(240, 87, 112);
+    color: white;
+}
+
+h1.ht {
+    margin-top: 205px;
+}
