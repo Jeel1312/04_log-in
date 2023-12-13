@@ -2,7 +2,6 @@ body {
     background-color: rgb(235, 215, 215);
 }
 
-
 .page {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -29,7 +28,7 @@ h1 {
     margin-top: 80px;
 }
 
-i{
+i {
     margin: 20px;
 }
 
